@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rehh"]
+	path = rehh
+	url = https://gitlab.com/oneoverx/rehh
+	shallow = true
+	registered = true
